@@ -1,9 +1,8 @@
 # randomwalk
-simulate the randomwalk 500 times
-see your chances of winning the bet
+simulate the randomwalk 500 times and see your chances of winning the bet
 
 Bet:
-roll dice 100 times to reach 60 steps or more
+Roll dice 100 times to reach 60 steps or more
 
 Rules:
 1,2 : -1 step
